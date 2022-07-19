@@ -1,6 +1,6 @@
 # Pig Game
 
-![Alt Text]()
+![Alt Text](https://github.com/AnnaZaragoza/PigGame/blob/150e85770ff8add265d8e8a6a05810edffe81539/visualization.png)
 
 # Description:
 
