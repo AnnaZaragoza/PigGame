@@ -1,0 +1,92 @@
+@media (max-width: 1500px) {
+  button {
+    top: 130px;
+  }
+
+  button.roll {
+    top: 370px;
+  }
+
+  button.hold {
+    top: 420px;
+  }
+
+  div.dice {
+    top: 280px;
+  }
+}
+
+@media (max-width: 1200px) {
+  section.boxes {
+    width: 100%;
+  }
+
+  section.players {
+    width: 100%;
+  }
+  button {
+    top: 100px;
+  }
+}
+
+@media (max-width: 800px) {
+  button {
+    top: 80px;
+  }
+
+  button.roll {
+    top: 330px;
+  }
+
+  button.hold {
+    top: 380px;
+  }
+
+  div.dice {
+    top: 250px;
+  }
+}
+
+@media (max-width: 500px) {
+  button {
+    top: 70px;
+    font-size: 10px;
+  }
+
+  button.roll {
+    top: 290px;
+  }
+
+  button.hold {
+    top: 330px;
+  }
+
+  div.dice {
+    top: 210px;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+
+  h3 {
+    font-size: 10px;
+  }
+
+  div.current {
+    margin: 120px 20% 10% 10%;
+  }
+}
+
+@media (max-width: 350px) {
+  div.dice {
+    top: 230px;
+  }
+  button.roll {
+    top: 305px;
+  }
+
+  button.hold {
+    top: 340px;
+  }
+}
