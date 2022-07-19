@@ -4,7 +4,7 @@
 
 # Description:
 
-Game for 2 players that have to fight for the highest number. Game known as PigGame. Play the game here: [PigGame]()
+Game for 2 players that have to fight for the highest number. Game known as PigGame. Play the game here: [PigGame](https://piggame-anna-zaragoza.netlify.app/)
 
 ### Exercice to practice JavaScript:
 
