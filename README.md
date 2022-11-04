@@ -45,4 +45,4 @@ The first player to score 100 wins.
 
 ## Acknowledgements
 - This project has been created from scratch.
-- It is an exercice from this tutorial: [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.example.com](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22628657#content)).
+- It is an exercice from this Udemy Course: [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/).
