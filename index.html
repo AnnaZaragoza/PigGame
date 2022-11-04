@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
   <head>
     <meta charset="UTF-8" />
     <meta name="keywords" content="Pig Game" />
@@ -10,9 +11,15 @@
     <link rel="stylesheet" type="text/css" href="responsive.css" />
 
     <title>Game Hold or Risk</title>
+
+    <script defer src="script.js"></script>
   </head>
+
   <body>
+
     <main>
+      <!-- Divition of the playing board: -->
+      <!-- Player 1 (left side) -->
       <section class="boxes">
         <section class="box left">
           <h2 class="player">PLAYER 1</h2>
@@ -22,7 +29,7 @@
             <p>0</p>
           </div>
         </section>
-
+        <!-- Player 2 (right side) -->
         <section class="box right">
           <h2 class="player">PLAYER 2</h2>
           <div class="total">0</div>
@@ -33,6 +40,8 @@
         </section>
       </section>
 
+      <!-- Buttons of the game: -->
+      <!-- Start new game -->
       <button class="new">NEW GAME</button>
       <div class="dice">
         <svg class="dice-one hidden">
@@ -69,9 +78,11 @@
           <circle cx="70" cy="30" r="7" fill="rgb(0, 102, 34)" />
         </svg>
       </div>
+      <!-- Rold the dice -->
       <button class="roll">ROLL DICE</button>
+      <!-- Hold the dice -->
       <button class="hold">HOLD</button>
     </main>
-    <script src="script.js"></script>
+
   </body>
 </html>
