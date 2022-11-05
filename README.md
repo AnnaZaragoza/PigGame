@@ -1,7 +1,9 @@
 # Pig Game
 
-Fully responsive game for 2 players that have to fight for the highest number
+Fully responsive game for 2 players that have to fight for the highest number.
+
 ![Alt Text](https://github.com/AnnaZaragoza/PigGame/blob/150e85770ff8add265d8e8a6a05810edffe81539/visualization.png)
+
 Play the game here: [PigGame](https://annazaragoza.net/piggame/)
 
 
@@ -44,5 +46,6 @@ The first player to score 100 wins.
 
 
 ## Acknowledgements
-- This project has been created from scratch.
+- This project has been created from scratch. It settled my knowldege of JS fundamentals.
 - It is an exercice from this Udemy Course: [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/).
+- I am specially proud of being able to create it by myself, without looking at the teacher's code or videos.
