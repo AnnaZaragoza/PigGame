@@ -13,7 +13,7 @@ Play the game here: [PigGame](https://annazaragoza.net/piggame/)
 - DOM manipulation
 - Event Listeners
 - CSS3 flexbox 
-- CSS3 <svg> creation, manipulation
+- SVG self-created
 - HTML5
 
 
